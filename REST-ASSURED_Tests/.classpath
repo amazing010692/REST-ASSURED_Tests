@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/json-path-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/docs/json-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/docs/json-path-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/docs/rest-assured-common-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/docs/rest-assured-common-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-schema-validator-4.1.2-dist/json-schema-validator-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-schema-validator-4.1.2-dist/docs/json-schema-validator-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-schema-validator-4.1.2-dist/docs/json-schema-validator-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/kotlin-extensions-4.1.2-dist/kotlin-extensions-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/rest-assured-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/json-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/json-path-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/rest-assured-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/rest-assured-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/rest-assured-common-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/rest-assured-common-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/xml-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/rest-assured-4.1.2-dist/docs/xml-path-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/scala-support-4.1.2-dist/scala-support-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/spring-mock-mvc-4.1.2-dist/spring-mock-mvc-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/spring-web-test-client-4.1.2-dist/spring-web-test-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/xml-path-4.1.2-dist/xml-path-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/xml-path-4.1.2-dist/docs/rest-assured-common-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/xml-path-4.1.2-dist/docs/rest-assured-common-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/xml-path-4.1.2-dist/docs/xml-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/xml-path-4.1.2-dist/docs/xml-path-4.1.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
