@@ -2,6 +2,15 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/groovy-all-2.4.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/httpmime-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/java-hamcrest-2.0.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/jaxb-api-2.4.0-b180830.0359.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/Additional Recommended JARS/Jars/rest-assured-4.1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/json-path-4.1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/docs/json-path-4.1.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Janielle Gregorio/Downloads/REST ASSURED Java Files/json-path-4.1.2-dist/docs/json-path-4.1.2-sources.jar"/>
