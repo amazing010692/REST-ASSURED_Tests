@@ -15,7 +15,7 @@ public class basics {
 				param("radius","500").
 				param("type","restaurant").
 				param("keyword","cruise").
-				param("key","AIzaSyDxeUgptccx5i2Y0HRQZzCpd1N2ew8t43c").
+				param("key","remove_API_key").
 		when().
 				get("/maps/api/place/nearbysearch/json").
 		then().
