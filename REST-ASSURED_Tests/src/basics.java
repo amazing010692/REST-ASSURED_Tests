@@ -1,6 +1,7 @@
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
 
 
 public class basics {
@@ -15,11 +16,12 @@ public class basics {
 				param("radius","500").
 				param("type","restaurant").
 				param("keyword","cruise").
-				param("key","remove_API_key").
+				param("key","AIzaSyDxeUgptccx5i2Y0HRQZzCpd1N2ew8t43c").
 		when().
 				get("/maps/api/place/nearbysearch/json").
 		then().
-				assertThat().statusCode(200).and().contentType(ContentType.JSON);
+				assertThat().statusCode(200).and().contentType(ContentType.JSON).and().
+				body("results[2].name", equalTo("Australian Cruise Group"));
 		
 
 	}
